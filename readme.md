@@ -4,4 +4,4 @@
 - `./artisan migrate --seed`
 - `./artisan serve`
 
-Cek file `app/routes.php`
+Cek file `app/routes.php`, `app/config/app.php`, `app/config/auth.php`
